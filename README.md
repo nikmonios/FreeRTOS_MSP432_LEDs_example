@@ -9,6 +9,8 @@
 <br>The second LED blinks in a different frequency than the first LED, and in various colours
 (using the built-in RGB functionality of the launchapd)
 <br>
+<br>You should already have the FreeRTOS scource code installed on your PC. To run this demo, download this <i>CORTEX_M4F_MSP432_LaunchPad_IAR_CCS_Keil</i> directory and replace your <i>directory_where_freertos_is_installed\FreeRTOS\Demo\CORTEX_M4F_MSP432_LaunchPad_IAR_CCS_Keil</i> directory.
+<br>Then follow the instructions from FreeRTOS to import the project to your IDE, rebuild it, and flash the launchpad.
 <br>
 <br>
 The files that were modified are:
