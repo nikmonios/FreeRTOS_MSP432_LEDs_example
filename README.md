@@ -31,8 +31,8 @@ used by the threads were created.
 <br>
 <br>
 <br>
-This is the launchpad that was used:
-![alt text](http://www.ti.com/diagrams/med_msp-exp432p401r_msp432_launchpad_-_annotated_image_resized.jpg)
+<b>This is the launchpad that was used:</b>
+<br>![alt text](https://cdn.lankatronics.com/pub/media/catalog/product/cache/c0bb400db441ec67b37045c5a66e35a8/m/s/msp_1_1_.jpg)
 <br>
 <br>You can buy it at: http://www.ti.com/tool/MSP-EXP432P401R
 
